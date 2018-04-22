@@ -17,7 +17,7 @@
     "I Saw Her Standing There": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/ISawHerStandingThere",
         "Delay": 9875,
-        "LyricDelay": 2550
+        "LyricDelay": 3250
     },
     "American Girl": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl",
@@ -32,7 +32,7 @@
     "Runnin' Down A Dream": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/RunninDownADream",
         "Delay": 15150,
-        "LyricDelay": 2500
+        "LyricDelay": 3500
     },
     "Miami 2017": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Miami",
