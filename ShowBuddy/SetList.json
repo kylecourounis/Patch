@@ -21,8 +21,8 @@
     },
     "American Girl": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl",
-        "Delay": 37650,
-        "LyricDelay": 3000
+        "Delay": 37300,
+        "LyricDelay": 3500
     },
     "Stiletto": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Stiletto",
