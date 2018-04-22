@@ -16,13 +16,13 @@
     },
     "I Saw Her Standing There": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/ISawHerStandingThere",
-        "Delay": 10000,
-        "LyricDelay": 2350
+        "Delay": 9875,
+        "LyricDelay": 2150
     },
     "American Girl": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl",
         "Delay": 37300,
-        "LyricDelay": 3500
+        "LyricDelay": 3450
     },
     "Stiletto": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Stiletto",
