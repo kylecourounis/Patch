@@ -1,12 +1,12 @@
 {
     "Prelude / Angry Young Man": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Angry",
-        "Delay": 108520,
+        "Delay": 107980,
         "LyricDelay": 2450
     },
     "Pressure": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Pressure",
-        "Delay": 29750,
+        "Delay": 28750,
         "LyricDelay": 3000
     },
     "Woman": {
@@ -16,13 +16,13 @@
     },
     "I Saw Her Standing There": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/ISawHerStandingThere",
-        "Delay": 9875,
-        "LyricDelay": 3250
+        "Delay": 6500,
+        "LyricDelay": 2350
     },
     "American Girl": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl",
-        "Delay": 37300,
-        "LyricDelay": 3450
+        "Delay": 36000,
+        "LyricDelay": 3000
     },
     "Stiletto": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Stiletto",
@@ -31,12 +31,12 @@
     },
     "Runnin' Down A Dream": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/RunninDownADream",
-        "Delay": 15150,
-        "LyricDelay": 4125
+        "Delay": 12150,
+        "LyricDelay": 2500
     },
     "Miami 2017": {
         "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Miami",
-        "Delay": 32750,
+        "Delay": 31000,
         "LyricDelay": 3000
     },
     "You Make My Dreams": {
