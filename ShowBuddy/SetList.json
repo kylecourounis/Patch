@@ -1,47 +1,23 @@
 {
     "Prelude / Angry Young Man": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Angry",
-        "Delay": 109980,
-        "LyricDelay": 2450
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Angry"
     },
     "Pressure": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Pressure",
-        "Delay": 30750,
-        "LyricDelay": 3000
-    },
-    "Woman": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Woman",
-        "Delay": 0,
-        "LyricDelay": 0
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Pressure"
     },
     "I Saw Her Standing There": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/ISawHerStandingThere",
-        "Delay": 12500,
-        "LyricDelay": 3150
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/ISawHerStandingThere"
+    },
+    "Woman": {
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Woman"
     },
     "American Girl": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl",
-        "Delay": 39000,
-        "LyricDelay": 3145
-    },
-    "Stiletto": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Stiletto",
-        "Delay": 0,
-        "LyricDelay": 0
-    },
-    "Runnin' Down A Dream": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/RunninDownADream",
-        "Delay": 15150,
-        "LyricDelay": 5350
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/AmericanGirl"
     },
     "Miami 2017": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Miami",
-        "Delay": 34000,
-        "LyricDelay": 3000
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/Miami"
     },
-    "You Make My Dreams": {
-        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/YouMakeMyDreams",
-        "Delay": 0,
-        "LyricDelay": 0
+    "Runnin' Down A Dream": {
+        "Location": "https://raw.githubusercontent.com/opum2/Patchs/master/ShowBuddy/Songs/RunninDownADream"
     }
 }
