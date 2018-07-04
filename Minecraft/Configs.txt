@@ -1,1 +1,1 @@
-JEI/jei.cfg
+jei/jei.cfg
