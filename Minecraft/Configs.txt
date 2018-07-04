@@ -1,1 +1,1 @@
-Test.cfg,Test2.cfg
+JEI/jei.cfg
